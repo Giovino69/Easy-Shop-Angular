@@ -1,0 +1,14 @@
+[
+  {
+    "type": "1 Giorno ",
+    "price": 25.99
+  },
+  {
+    "type": "2 Giorni",
+    "price": 9.99
+  },
+  {
+    "type": "Varie Settimane (Postale)",
+    "price": 2.99
+  }
+]
